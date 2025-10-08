@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --brand: #0B5CFF;
+  --brandDark: #0A3DCB;
+}
